@@ -1,0 +1,2 @@
+一个大三人工智能专业学生的智慧医疗期末大作业
+data数据集访问https://aistudio.baidu.com/datasetdetail/128229下载，将原图像数据集改为data1,掩码数据集改为data2依次运行代码文件即可。
